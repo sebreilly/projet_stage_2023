@@ -59,13 +59,13 @@ En voici quelques uns:
 ![Socapex V19](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133031.jpg)
 
 ### Adaptateurs:
-![Socapex vers PowerconTrue](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133044.jpg)
 Socapex vers powerCON TRUE.
-![PS30A2P103W100 ou Pieuvre](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133057.jpg)
+![Socapex vers PowerconTrue](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133044.jpg)
 PS30A2P103W100 ou Pieuvre.
-![Plusieurs types d'adapt](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133148.jpg)
+![PS30A2P103W100 ou Pieuvre](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133057.jpg)
 Plusieurs types d'adaptateur, principalement des adaptateurs powerCON à powerCON TRUE et powerCON TRUE à UGROUND.
-![Passe câbles](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133157.jpg)
+![Plusieurs types d'adapt](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133148.jpg)
 Passe câbles.
-![Différents types de coffre](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133249.jpg)
+![Passe câbles](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133157.jpg)
 Différents types de coffre.
+![Différents types de coffre](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133249.jpg)
