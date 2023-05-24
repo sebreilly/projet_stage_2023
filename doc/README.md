@@ -33,3 +33,39 @@ En voici quelques unes:
 # Autres
 Pendant le stage, j'ai également eu la chance de voir non seulement les machines, mais aussi le matériel qu'ils utilisent pour les faire fonctionner dans le millieu de la scène. </br>
 En voici quelques uns:
+
+## Grand MA 2:
+![Console d'éclairage vue de côté en plongé](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_132403.jpg)
+![Vue rapprochée](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_132441.jpg)
+![L'arrière de celle-ci](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_132451.jpg)
+
+## Grand MA sur PC:
+![interface sur pc](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230508_153345.jpg)
+![interface sur pc 2](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230508_153352.jpg)
+![interface sur pc 3](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230508_153704.jpg)
+- Remarque que l'interface sur le pc est la même sur les écrans de la console Grand MA 2.
+
+## Autres Composantes:
+### NPU:
+![Network Processing Unit](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_132523.jpg)
+
+### Switch POE:
+![Rangement switch](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_132514.jpg)
+
+### UPS:
+![Uninterruptable Power Supply](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_132614.jpg)
+
+### Socapex:
+![Socapex V19](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133031.jpg)
+
+### Adaptateurs:
+![Socapex vers PowerconTrue](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133044.jpg)
+Socapex vers powerCON TRUE.
+![PS30A2P103W100 ou Pieuvre](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133057.jpg)
+PS30A2P103W100 ou Pieuvre.
+![Plusieurs types d'adapt](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133148.jpg)
+Plusieurs types d'adaptateur, principalement des adaptateurs powerCON à powerCON TRUE et powerCON TRUE à UGROUND.
+![Passe câbles](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133157.jpg)
+Passe câbles.
+![Différents types de coffre](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133249.jpg)
+Différents types de coffre.
