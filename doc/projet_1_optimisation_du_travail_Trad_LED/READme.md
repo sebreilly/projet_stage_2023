@@ -12,6 +12,6 @@ Le fait d’agrandir un peu plus le département vient en effet réduire légèr
 
 Je trouve que l’utilisation de tables de travail pour l’entretient et la maintenance des machines est une façon très efficace de travailler. Compte tenu que l’on peut placer facilement quatre de machines, il devient très efficace de passer à travers un coffre rempli dans un délais raisonnable.
 
-![](Aspose.Words.bab29073-3b6e-4694-95f8-9e72c6713cb0.004.png)
+![pôle d'éclairage](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/projet_1_optimisation_du_travail_Trad_LED/medias/AI/pole_eclairage.png)
 
 En ajoutant un deuxième poteau d’éclairage, il serait possible de tester et de réinitialiser l’entièreté d’un coffre directement sur le poteau. Ce serait un gain de temps comparer à la méthode actuelle qui consiste à en tester quatre à la fois sur une table.
