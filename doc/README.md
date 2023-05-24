@@ -59,13 +59,13 @@ En voici quelques uns:
 ![Socapex V19](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133031.jpg)
 
 ### Adaptateurs:
-Socapex vers powerCON TRUE.
+Socapex vers powerCON TRUE:
 ![Socapex vers PowerconTrue](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133044.jpg)
-PS30A2P103W100 ou Pieuvre.
+PS30A2P103W100 ou Pieuvre:
 ![PS30A2P103W100 ou Pieuvre](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133057.jpg)
-Plusieurs types d'adaptateur, principalement des adaptateurs powerCON à powerCON TRUE et powerCON TRUE à UGROUND.
+Plusieurs types d'adaptateur, principalement des adaptateurs powerCON à powerCON TRUE et powerCON TRUE à UGROUND:
 ![Plusieurs types d'adapt](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133148.jpg)
-Passe câbles.
+Passe câbles:
 ![Passe câbles](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133157.jpg)
-Différents types de coffre.
+Différents types de coffre:
 ![Différents types de coffre](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133249.jpg)
