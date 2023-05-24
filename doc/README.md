@@ -26,6 +26,6 @@ En voici quelques unes:
 # COLORado PXL Bar 16:
 ![Vue de côté allumé](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230510_090528.jpg)
 
-# BMFL FollowSpot LT:
+# ESprite FS:
 ![Vue de côté](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230518_083847.jpg)
 ![Vue cam](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230518_084015.jpg)
