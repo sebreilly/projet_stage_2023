@@ -1,7 +1,7 @@
 # Documentation
 Toute la documentation ce trouve ici!
 
-# Les Machines
+## Les Machines
 Pendant le stage j'ai eu la chance de comprendre comment fonctionne différentes machines d'éclairage dans le millieu de la scène. </br>
 En voici quelques unes:
 
@@ -29,3 +29,5 @@ En voici quelques unes:
 # ESprite FS:
 ![Vue de côté](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230518_083847.jpg)
 ![Vue cam](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230518_084015.jpg)
+
+
