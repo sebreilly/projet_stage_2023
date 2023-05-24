@@ -1,7 +1,7 @@
 # Proposition d’optimisation du travail et de l’espace du département de Trad/Led
 ##
 ## Optimisation de l’espace de travail
-![](Aspose.Words.bab29073-3b6e-4694-95f8-9e72c6713cb0.001.png)
+![Plan de travail](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/projet_1_optimisation_du_travail_Trad_LED/medias/plan_de_travail.png)
 
 ![](Aspose.Words.bab29073-3b6e-4694-95f8-9e72c6713cb0.002.png)																							Tables																					Poteau d’éclairage
 
