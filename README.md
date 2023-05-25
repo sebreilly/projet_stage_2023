@@ -65,6 +65,7 @@ Je commence à trouver agaçant le fait de ne rien créer comme contenus. J'esp�
 </br>
 
 ## Semaine 5
+![moving2](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230504_134316.jpg)
 Cette semaine et pour les deux prochaines semaines, je suis retourné dans le département de MovingLight. J'ai également discuter avec mon maître de stage et j'ai un objectif clairement définit pour cette semaine et les deux prochaines. Je sais enfin où je m'en vais et ça fait du bien. Aussi, le fait de savoir que je vais terminer mon stage dans le département que je préfère, m'aide à faire apprécier les tâches à accomplir. J'ai continuer à apprendre le fonctionnement de certaines machines d'éclairage et la façon dont on fait leur entretient.
 ### Tâches accomplis
 - Planifier les différents plans de tournage.
