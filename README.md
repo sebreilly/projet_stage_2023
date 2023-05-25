@@ -19,3 +19,15 @@ Mon stage ne se déroulait pas comme dans le mandat initial, étant donné le ma
 </br>
 
 ## Semaine 2
+Cette semaine, j'ai passé du département de câblage au département de Trad/LED. Cela m'a permis dans un premier temps de découvrir un nouvel espace de travail et de nouveaux employés, mais aussi de découvrir le fonctionnement de machines d'éclairage fixes et de l'apprentissage du logiciel Grand MA pour les tester.
+### Tâches accomplis
+- Entretient des colorADOs 2.
+- Maintenance des colorADOs 2.
+- Réinitialisation des colorADOs 2.
+- Utilisation du logiciel Grand MA pour tester les colorADOs 2.
+- Utilisation du logiciel R2 pour les retours et les transferts.
+- Utilisation du logiciel Monday pour l'archivage de la maintenance.
+### Projet réalisé
+On m'a assigné un petit projet qui consiste à repenser la disposition de l'espace de travail du département ainsi que de repenser les méthodes de travail de celui-ci dans le but de les optimiser. Pour ce faire j'ai analysé les méthodes utilisé pour faire la maintenance des machines, j'ai posé des questions aux employés pour avoir leurs points de vue et je me suis basé sur la cartographie des lieux pour repenser son espace.
+### Dynamique du stage
+Je me sens déjà plus confiant sur le mandat que l'on m'a confié, mais en ce qui atrait aux tâches que j'effectue, je me sens légèrement surqualifié pour celles-ci. Ceci étant dit, je n'ai toujours aucuns problèmes à m'intégrer auprès des employés. Si j'avais à m'exprimer sur mon niveau de satisfaction de mon stage jusqu'à présent, je dirais que dans l'ensemble je suis satisfait de mon stage car j'ai enfin la posibilité de proposer quelque chose de créatif, mais la surqualification de mon niveau par rapport aux tâches quotidienne est d'un ennui mortel. Je vais tout de même m'assurer de rendre un produit de qualité à mon maître de stage.
