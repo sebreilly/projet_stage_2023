@@ -57,7 +57,7 @@ Cette semaine je vois le dernier département de toute la division LX de chez So
 ### Projet réalisé
 Encore une fois, je n'ai aucuns projets à réaliser cette semaine. Je commence à me poser des questions vis-à-vis de la gestion de l'entreprise. Ceci étant dit, je devrais normalement commencer un nouveau projet la semaine prochaine, mais je n'ai pas eu de confirmation de la part de mon maître de stage. Je compte aller lui parler pour clarifier certaines choses.
 ### Dynamique du stage
-Je commence à trouver agaçant le fait de ne rien créer comme contenus. J'espère avoir plus de liberté créative dans les prochaines semaines. Ceci- dit, j'ai quand-même eu l'occasion d"espérimenter sur la création de spectacles avec la console. Le travail que je fait cette semaine ne m'interresse pas beaucoup, mais je m'efforce de le faire correctement avec assiduité. Comme d'abitude, les employés sont vraiment génial et j'ai encore beaucoup en communs avec eux ce qui rend mon appréciation du stage quand-même bien.</br>
+Je commence à trouver agaçant le fait de ne rien créer comme contenus. J'espère avoir plus de liberté créative dans les prochaines semaines. Ceci- dit, j'ai quand-même eu l'occasion d"espérimenter sur la création de spectacles avec la console. Le travail que je fait cette semaine ne m'interresse pas beaucoup, mais je m'efforce de le faire correctement avec assiduité. Comme d'habitude, les employés sont vraiment génial et j'ai encore beaucoup en communs avec eux ce qui rend mon appréciation du stage quand-même bien.</br>
 </br>
 
 ## Semaine 5
