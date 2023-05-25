@@ -37,6 +37,7 @@ Je me sens déjà plus confiant sur le mandat que l'on m'a confié, mais en ce q
 </br>
 
 ## Semaine 3
+![moving1](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230510_090528.jpg)
 Cette semaine, j'ai passé du département de Trad/LED à celui de MovingLights. Cela m'a permis de découvrir d'avantage de machines d'éclairage, mais cette fois-ci amovible. J'ai découvert non seulement leur fonctionnement, mais aussi la façon de les tester qui était légèrement différente du département de Trad/LED. J'ai également aprofondis mes connaissances du logiciel Grand MA.
 ### Tâches accomplis
 - Tester les fixtures amovibles.
