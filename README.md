@@ -31,4 +31,21 @@ Cette semaine, j'ai passé du département de câblage au département de Trad/L
 ### Projet réalisé
 On m'a assigné un petit projet qui consiste à repenser la disposition de l'espace de travail du département ainsi que de repenser les méthodes de travail de celui-ci dans le but de les optimiser. Pour ce faire j'ai analysé les méthodes utilisé pour faire la maintenance des machines, j'ai posé des questions aux employés pour avoir leurs points de vue et je me suis basé sur la cartographie des lieux pour repenser son espace.
 ### Dynamique du stage
-Je me sens déjà plus confiant sur le mandat que l'on m'a confié, mais en ce qui atrait aux tâches que j'effectue, je me sens légèrement surqualifié pour celles-ci. Ceci étant dit, je n'ai toujours aucuns problèmes à m'intégrer auprès des employés. Si j'avais à m'exprimer sur mon niveau de satisfaction de mon stage jusqu'à présent, je dirais que dans l'ensemble je suis satisfait de mon stage car j'ai enfin la posibilité de proposer quelque chose de créatif, mais la surqualification de mon niveau par rapport aux tâches quotidienne est d'un ennui mortel. Je vais tout de même m'assurer de rendre un produit de qualité à mon maître de stage.
+Je me sens déjà plus confiant sur le mandat que l'on m'a confié, mais en ce qui atrait aux tâches que j'effectue, je me sens légèrement surqualifié pour celles-ci. Ceci étant dit, je n'ai toujours aucuns problèmes à m'intégrer auprès des employés. Si j'avais à m'exprimer sur mon niveau de satisfaction de mon stage jusqu'à présent, je dirais que dans l'ensemble je suis satisfait de mon stage car j'ai enfin la posibilité de proposer quelque chose de créatif, mais la surqualification de mon niveau par rapport aux tâches quotidienne est d'un ennui mortel. Je vais tout de même m'assurer de rendre un produit de qualité à mon maître de stage.</br>
+</br>
+
+## Semaine 3
+Cette semaine, j'ai passé du département de Trad/LED à celui de MovingLights. Cela m'a permis de découvrir d'avantage de machines d'éclairage, mais cette fois-ci amovible. J'ai découvert non seulement leur fonctionnement, mais aussi la façon de les tester qui était légèrement différente du département de Trad/LED. J'ai également aprofondis mes connaissances du logiciel Grand MA.
+### Tâches accomplis
+- Tester les fixtures amovibles.
+- Nettoyer les lentilles des fixtures.
+- Faire des réparations mineures sur les fixtures.
+- Changer les braquettes des pinces qui sert à accroché les fixtures.
+### Projet réalisé
+Une fois de plus je n'avais pas de projets à réaliser cette semaine. Cependant, les tâches à accomplir sont beaucoup plus interessantes que les semaines dernières. J'ai également parlé à mon maître de stage et d'autres projets sont planifiés pour les semaines à venir. Effectivement, étant donné que je ne connaissais pas les tâches à réaliser au courant de ma semaine, j'étais dans l'incapacité de planifier mon temps et mes objectifs.
+### Dynamique du stage
+J'aime les tâches auxquelles on m'attribut, je les trouves interessante et j'ai beaucoup de choses en commun avec les employés de ce département ce qui renforce les relations interpersonnelles. J'ai aussi eu un retour sur ma proposition créative de la semaine dernière et celui-ci est positif, même qu'il a fait remarquer certaines choses que mon maître de stage n'avait pas remarqué jusqu'à présent. Celle-ci devrait être appliquée d'ici deux ans, lorsqu'il déménageront les lieux de travail. Pour l'instant, je suis quand-même satisfait de mon stage, en espérant que j'aurai de nouveaux projets à travailler dessus bientôt.</br>
+</br>
+
+
+
