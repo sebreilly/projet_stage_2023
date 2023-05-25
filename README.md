@@ -92,6 +92,7 @@ Malgré les problèmes rencontrés, je suis quand-même globalement satisfait de
 </br>
 
 ## Semaine 7
+![moving4](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230518_083847.jpg)
 Cette semaine fut ma dernière semaine chez Solotech. Même si j'ai adoré mon stage dans sa globalité, je dois admettre que j'aurais aimé mettre plus de l'avant mes compétences acquise lors de mon parcours au collégial. J'ai aussi eu la confirmation que le département des ressources humaines de cette entreprise a de grandes lacunes. En effet, ce qu'on m'avait dit au départ ne sera pas respecté au final ce qui me laisse légèrement amer. J'ai rendu la vidéo du montage à mon maître de stage et il semble satisfait. Cependant, je ne crois pas que cette vidéo soit de qualité uniquement à cause de la captation audio que j'ai fait qui laisse à désirer. J'ai toute fois appris une dernière chose utile, c'est-à-dire comment installer un rivet.
 ### Tâches accomplis
 - Faire l'entretient des machines.
