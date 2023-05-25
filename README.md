@@ -6,6 +6,7 @@ Voici les projets sur lesquels j'ai travaillé durant mon stage en entreprise ch
 </br>
 # Journal de Bord
 ## Semaine 1
+![câblage](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_133031.jpg)
 Pour cette première semaine, j'ai été placé dans le département de câblage pour mieux me familiariser avec les différents types de câbles et leur utilité. Je me suis aussi familiarisé avec le logiciel R2 qui leur sert à traîter les commandes des clients.
 ### Tâches accomplis
 - Classer des câbles.
