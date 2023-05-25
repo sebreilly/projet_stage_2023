@@ -51,6 +51,7 @@ J'aime les tâches auxquelles on m'attribut, je les trouves interessante et j'ai
 </br>
 
 ## Semaine 4
+![console](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_132403.jpg)
 Cette semaine je vois le dernier département de toute la division LX de chez Solotech c'est-à-dire le département de Console/Dimer. J'ai appris le fonctionnement d'une console d'éclairage Grand MA 2. D'ailleurs, celle-ci a la même interface que le logiciel sur ordinateur. J'ai également appris comment monter des rack d'éclairage correctement avec une bonne gestion de câbles.
 ### Tâches accomplis
 - Monter des racks avec des composantes LX.
