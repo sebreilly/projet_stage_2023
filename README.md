@@ -61,7 +61,7 @@ Je commence à trouver agaçant le fait de ne rien créer comme contenus. J'esp�
 </br>
 
 ## Semaine 5
-Cette semaine et pour les deux prochaines semaines, je suis retourné dans le département de MovingLight. J'ai également discuter avec mon maître de stage et j'ai un objectif clairement définit pour cette semaine et les deux prochaines. Je sais enfin où je m'en vais et ça fait du bien. Aussi, le fait de savoir que je vais terminer mon stage dans le département que je préfère m'aide à faire apprécier les tâches à accomplir. J'ai continuer à apprendre le fonctionnement de certaines machines d'éclairage et la façon dont on fait leur entretient.
+Cette semaine et pour les deux prochaines semaines, je suis retourné dans le département de MovingLight. J'ai également discuter avec mon maître de stage et j'ai un objectif clairement définit pour cette semaine et les deux prochaines. Je sais enfin où je m'en vais et ça fait du bien. Aussi, le fait de savoir que je vais terminer mon stage dans le département que je préfère, m'aide à faire apprécier les tâches à accomplir. J'ai continuer à apprendre le fonctionnement de certaines machines d'éclairage et la façon dont on fait leur entretient.
 ### Tâches accomplis
 - Planifier les différents plans de tournage.
 - Faire l'entretient des machines.
@@ -73,6 +73,16 @@ Cette semaine je commence à penser au différents plans que je dois tourner pou
 Je suis content de la tournure que prends le stage. J'ai enfin un objectif claire avec un échéancier associé et j'ai enfin l'impression de faire quelque chose d'important dans l'entreprise. Comme d'habitude, je m'entends super bien avec les employés du département. Par contre, il m'arrive de poser beaucoup de question, car je ne suis pas toujours cent pour cent certain de moi, mais j'arrive toujours a effectuer le travail dans les temps. J'ai hâte de commencer à tourner.</br>
 </br>
 
+## Semaine 6
+Cette semaine je me suis concentré sur le tournage des plans pour la vidéo d'entrainement de Solotech académie. Il y a eu quelques imprévus, mais au final tout a été tourné dans les temps. Il me faut faire la captation de la voix off pour la semaine prochaine. Sinon, j'ai aussi appris la bonne façon de lunrifier les glissière des focus et des zoom des machines.
+### Tâches accomplis
+- Tournage des plans pour la vidéo.
+- Montage de la vidéo.
+- Entretient des machines.
+### Projet réalisé
+Comme la semaine dernière, j'ai travaillé sur le projet de vidéo d'entrainement pour les employés du département de MovingLight. Cette semaine j'ai mis en pratique ma planification des plans de tournage et j'ai tout tourné. En revanche, la caméra que j'étais sensé utiliser pour le tournage n'était pas disponible ce qui ne m'a pas laissé d'autre choix que de tourner les plans avec mon cellulaire. Je devais faire attention a rester le plus stable possible pour éviter des plans qui bouge trop. J'ai également commencé le montage vidéo, mais il me reste la captation de la voix off et le choix de la musique de fond pour accompagner la vidéo. Bien evidemment, je dois choisir des musiques qui sont libre de droit. Pour la captation de la voix off, je compte m'enregistrer avec mon micro de chez nous, car je n'ai pas la possibilité de le faire au sein de l'entreprise. J'ai également remarqué que la plupart des plans ont des focus automatiques, mais ceux-ci ne sont pas trop dérangeants.
+### Dynamique du stage
+Malgré les problèmes rencontrés, je suis quand-même globalement satisfait de mon stage jusqu'à présent. J'aime l'équipe avec qui je travail et j'apprends de nouvelles choses sur la maintenance des machines à chaque jour. J'ai pris également l'initiative de créer un repository sur github pour pouvoir archiver mon travail. Je commence également à développer mon autonomie dans mon travail, car il m'arrive de ne pas avoir d'employer pour m'aider dans mes tâches. Ceux-ci me font confiance et me le font ressentir. J'ai également parler à mon maître de stage du fait que l'on m'avait mentioné que ce serait un stage rémunéré à la fin. Il dit qu'il n'est pas au courant, mais qu'il va se renseigner.
 
 
 
