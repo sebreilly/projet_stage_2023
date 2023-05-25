@@ -79,6 +79,7 @@ Je suis content de la tournure que prends le stage. J'ai enfin un objectif clair
 </br>
 
 ## Semaine 6
+![moving3](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230508_134239.jpg)
 Cette semaine je me suis concentré sur le tournage des plans pour la vidéo d'entrainement de Solotech académie. Il y a eu quelques imprévus, mais au final tout a été tourné dans les temps. Il me faut faire la captation de la voix off pour la semaine prochaine. Sinon, j'ai aussi appris la bonne façon de lunrifier les glissière des focus et des zoom des machines.
 ### Tâches accomplis
 - Tournage des plans pour la vidéo.
