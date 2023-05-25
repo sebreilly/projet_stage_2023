@@ -60,5 +60,19 @@ Encore une fois, je n'ai aucuns projets à réaliser cette semaine. Je commence 
 Je commence à trouver agaçant le fait de ne rien créer comme contenus. J'espère avoir plus de liberté créative dans les prochaines semaines. Ceci- dit, j'ai quand-même eu l'occasion d"espérimenter sur la création de spectacles avec la console. Le travail que je fait cette semaine ne m'interresse pas beaucoup, mais je m'efforce de le faire correctement avec assiduité. Comme d'abitude, les employés sont vraiment génial et j'ai encore beaucoup en communs avec eux ce qui rend mon appréciation du stage quand-même bien.</br>
 </br>
 
+## Semaine 5
+Cette semaine et pour les deux prochaines semaines, je suis retourné dans le département de MovingLight. J'ai également discuter avec mon maître de stage et j'ai un objectif clairement définit pour cette semaine et les deux prochaines. Je sais enfin où je m'en vais et ça fait du bien. Aussi, le fait de savoir que je vais terminer mon stage dans le département que je préfère m'aide à faire apprécier les tâches à accomplir. J'ai continuer à apprendre le fonctionnement de certaines machines d'éclairage et la façon dont on fait leur entretient.
+### Tâches accomplis
+- Planifier les différents plans de tournage.
+- Faire l'entretient des machines.
+- Tester les machines.
+- Faire des billets de réparation.
+### Projet réalisé
+Cette semaine je commence à penser au différents plans que je dois tourner pour la vidéo d'entretient d'une des machines dans le département de MovingLight. Cette vidéo sera disponible éventuellement sur Solotech académie qui est le site web mis à la disposition des employés pour leur formation. Je dois arriver avec un plan qui montre la ligne directrice du tournage pour la semaine prochaine.
+### Dynamique du stage
+Je suis content de la tournure que prends le stage. J'ai enfin un objectif claire avec un échéancier associé et j'ai enfin l'impression de faire quelque chose d'important dans l'entreprise. Comme d'habitude, je m'entends super bien avec les employés du département. Par contre, il m'arrive de poser beaucoup de question, car je ne suis pas toujours cent pour cent certain de moi, mais j'arrive toujours a effectuer le travail dans les temps. J'ai hâte de commencer à tourner.</br>
+</br>
+
+
 
 
