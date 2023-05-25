@@ -21,6 +21,7 @@ Mon stage ne se déroulait pas comme dans le mandat initial, étant donné le ma
 </br>
 
 ## Semaine 2
+![trad/led](https://github.com/sebreilly/projet_stage_2023/blob/main/doc/photos_stage/20230516_132011.jpg)
 Cette semaine, j'ai passé du département de câblage au département de Trad/LED. Cela m'a permis dans un premier temps de découvrir un nouvel espace de travail et de nouveaux employés, mais aussi de découvrir le fonctionnement de machines d'éclairage fixes et de l'apprentissage du logiciel Grand MA pour les tester.
 ### Tâches accomplis
 - Entretient des colorADOs 2.
