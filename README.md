@@ -47,5 +47,18 @@ Une fois de plus je n'avais pas de projets à réaliser cette semaine. Cependant
 J'aime les tâches auxquelles on m'attribut, je les trouves interessante et j'ai beaucoup de choses en commun avec les employés de ce département ce qui renforce les relations interpersonnelles. J'ai aussi eu un retour sur ma proposition créative de la semaine dernière et celui-ci est positif, même qu'il a fait remarquer certaines choses que mon maître de stage n'avait pas remarqué jusqu'à présent. Celle-ci devrait être appliquée d'ici deux ans, lorsqu'il déménageront les lieux de travail. Pour l'instant, je suis quand-même satisfait de mon stage, en espérant que j'aurai de nouveaux projets à travailler dessus bientôt.</br>
 </br>
 
+## Semaine 4
+Cette semaine je vois le dernier département de toute la division LX de chez Solotech c'est-à-dire le département de Console/Dimer. J'ai appris le fonctionnement d'une console d'éclairage Grand MA 2. D'ailleurs, celle-ci a la même interface que le logiciel sur ordinateur. J'ai également appris comment monter des rack d'éclairage correctement avec une bonne gestion de câbles.
+### Tâches accomplis
+- Monter des racks avec des composantes LX.
+- Oppérer une console Grand MA 2.
+- Réinitialiser une console Grand Ma 2.
+- Tester un dimer pour vérifier son ampérage.
+### Projet réalisé
+Encore une fois, je n'ai aucuns projets à réaliser cette semaine. Je commence à me poser des questions vis-à-vis de la gestion de l'entreprise. Ceci étant dit, je devrais normalement commencer un nouveau projet la semaine prochaine, mais je n'ai pas eu de confirmation de la part de mon maître de stage. Je compte aller lui parler pour clarifier certaines choses.
+### Dynamique du stage
+Je commence à trouver agaçant le fait de ne rien créer comme contenus. J'espère avoir plus de liberté créative dans les prochaines semaines. Ceci- dit, j'ai quand-même eu l'occasion d"espérimenter sur la création de spectacles avec la console. Le travail que je fait cette semaine ne m'interresse pas beaucoup, mais je m'efforce de le faire correctement avec assiduité. Comme d'abitude, les employés sont vraiment génial et j'ai encore beaucoup en communs avec eux ce qui rend mon appréciation du stage quand-même bien.</br>
+</br>
+
 
 
