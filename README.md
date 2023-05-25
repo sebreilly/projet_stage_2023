@@ -2,7 +2,8 @@
 Voici les projets sur lesquels j'ai travaillé durant mon stage en entreprise chez Solotech Montréal !
 <br />
 [Projets](https://github.com/sebreilly?query=is%3Aclosed&tab=projects)
-
+</br>
+</br>
 # Journal de Bord
 ## Semaine 1
 Pour cette première semaine, j'ai été placé dans le département de câblage pour mieux me familiariser avec les différents types de câbles et leur utilité. Je me suis aussi familiarisé avec le logiciel R2 qui leur sert à traîter les commandes des clients.
