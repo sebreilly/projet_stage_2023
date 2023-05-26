@@ -1,12 +1,8 @@
 # Musiques utilisées:
-- [Straighty Baby](https://audionautix.com/Music/StraightyBaby.mp3)
-- </br>
-- [Acoustic Shuffle](https://audionautix.com/Music/AcousticShuffle.mp3)
-- </br>
-- [Drifting2](https://audionautix.com/Music/Drifting2.mp3)
-- </br>
-- [Tangerine](https://audionautix.com/Music/Tangerine.mp3)
-- </br>
+- [Straighty Baby](https://audionautix.com/Music/StraightyBaby.mp3)</br>
+- [Acoustic Shuffle](https://audionautix.com/Music/AcousticShuffle.mp3)</br>
+- [Drifting2](https://audionautix.com/Music/Drifting2.mp3)</br>
+- [Tangerine](https://audionautix.com/Music/Tangerine.mp3)</br>
 ## Lien vers le site web: [audionautix.com](https://audionautix.com/)
 # Liens vers les vidéos:
 - [Video préliminaire](https://drive.google.com/file/d/1-BoyIfxOgQNuw6FD2tDKZfMSK1miZrrn/view) </br>
