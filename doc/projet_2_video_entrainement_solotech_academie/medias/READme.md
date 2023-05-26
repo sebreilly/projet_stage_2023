@@ -1,5 +1,5 @@
 # Musiques utilisées:
-- <a href="https://audionautix.com/Music/StraightyBaby.mp3" target="_blank">Straighty Baby</a></br>
+- [Straighty Baby](https://audionautix.com/Music/StraightyBaby.mp3)</br>
 - [Acoustic Shuffle](https://audionautix.com/Music/AcousticShuffle.mp3)</br>
 - [Drifting2](https://audionautix.com/Music/Drifting2.mp3)</br>
 - [Tangerine](https://audionautix.com/Music/Tangerine.mp3)</br>
